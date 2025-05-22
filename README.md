@@ -25,3 +25,10 @@ Nice to e-meet you. I'm a PhD candidate in Indigenous and Rural Health at Montan
 | SE Biomedical Engineering, Minor in Music       | University of Michigan    | 2013 - 2017    |
 
 
+### I hope to gain the following skills
+- [ ] Learn how to build shiny apps for easy data visualization
+- [ ] Learn how to apply machine learning to statistical analysis with health data
+- [ ] Learn how to work with databases (including working with snowflake)
+- [ ] Relatedly, learn how to scrape data from major health databases
+
+
